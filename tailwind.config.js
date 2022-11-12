@@ -13,6 +13,7 @@ module.exports = {
       'star1':"url('/star-1.png')",
       'sm-star':"url('/res1.png')",
       'star-2':"url('/list.png')",
+      'bottle':"url('/bottle.png')",
     },
     fontSize: {
       'special': '2rem',
@@ -20,6 +21,9 @@ module.exports = {
     borderWidth:{
       'half':'0.5px',
     },
+    dropShadow:{
+      'primary-shadow':['0 5px 20px rgba(49, 150, 211, 0.25)']
+    }
 
     },
   },

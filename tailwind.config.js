@@ -10,10 +10,10 @@ module.exports = {
     'tertiary-2': '#C6D7E1',
     'tertiary-3':'#B7D8EB',},
     backgroundImage: {
-      'star1':"url('/star-1.png')",
-      'sm-star':"url('/res1.png')",
-      'star-2':"url('/list.png')",
-      'bottle':"url('/bottle.png')",
+      'star1':"url('/images/star-1.png')",
+      'sm-star':"url('/images/res1.png')",
+      'star-2':"url('/images/list.png')",
+      'bottle':"url('/images/bottle.png')",
     },
     fontSize: {
       'special': '2rem',
